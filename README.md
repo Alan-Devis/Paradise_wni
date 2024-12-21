@@ -1,3 +1,6 @@
+# Билд сервера SS1984
+Это лишь форк оригинального билда SS1984. Тут пустошь, и всё. Спрайтики, конфетки, бараночки и всё такое :3
+
 # Paradise
 [![CI](https://github.com/ss220-space/Paradise/workflows/CI/badge.svg)](https://github.com/ParadiseSS13/Paradise/actions?query=workflow%3ACI)
 [![Render Nanomaps](https://github.com/ss220-space/Paradise/workflows/Render%20Nanomaps/badge.svg)](https://github.com/ParadiseSS13/Paradise/actions?query=workflow%3A%22Render+Nanomaps%22)
